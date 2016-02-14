@@ -1,0 +1,39 @@
+
+#mc_embed_signup {
+  width: 100%;
+  text-align: center;
+  background-color: #fff;
+}
+
+.mc_embed_signup form {
+  padding: 20px
+  width: 450px;
+  text-align: left
+}
+
+#mc_embed_signup_scroll {
+
+}
+
+#mc_embed_signup label {
+  display: block
+}
+#mc_embed_signup input {
+  border-radius: 3px
+  border: none
+  padding: 5px 10px
+  margin: 5px
+}
+
+#mc_embed_signup .button {
+  background-color: white;
+  border-radius: 5px;
+  border: none;
+  color: #555;
+  padding: 5px 10px;
+  display: inline-block;
+}
+
+#mc_embed_signup .button:hover {
+  background-color: #eee;
+}
