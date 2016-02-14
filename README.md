@@ -1,8 +1,12 @@
-# Breathe
+# Breathe More
 
-**Breathe** is a minimalist theme for the Ghost blogging platform. Mostly a derivative of the [Zen Habit's theme `zh2`](http://zenhabits.net/theme/), which is uncopyrighted.
+**Breathe More** is a theme for the Ghost blogging platform. 
+It was originally forked from the [Breathe](https://github.com/belen-albeza/breathe-theme) theme developed by [Belén Albeza](http://www.belenalbeza.com/). (Thank you Belén!)
 
-[![Preview](/screenshot-preview.png?raw=true)](/screenshot.png?raw=true)
+## Please note
+
+This theme is currently not ready for production.
+
 
 ## Installation
 
@@ -33,10 +37,6 @@ This theme does _not_ display:
 
 ## Changelog
 
-- **1.0.1**
-  - Fix pagination showing up in static pages
-- **1.0.0**
-  - First version
 
 ## Development
 
@@ -55,10 +55,4 @@ You can build a release with:
 
 ```
 gulp
-```
-
-You can have a daemon watching for changes in the Less files and recompiling them with:
-
-```
-gulp watch
 ```
